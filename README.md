@@ -14,8 +14,7 @@ Phase 2:
 Phase 3:
     To Hide or Unhide your data, it requires Password.
 
-<a href='Installer/Vault-Installer.exe' download>Download Vault</a>
-<!-- [Download Vault](Installer/Vault-Installer.exe) -->
+[Download Vault](https://github.com/Sachinacharya-Project/FolderLock/raw/main/Installer/Vault-Installer.exe)
 # Wiki How?
 
 When the program is openned for the first time, you need to create new password before using any other operations.
