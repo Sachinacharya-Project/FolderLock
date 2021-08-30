@@ -14,7 +14,7 @@ Phase 2:
 Phase 3:
     To Hide or Unhide your data, it requires Password.
 
-[Download Vault](https://www.python.org/)
+[Download Vault](Installer/Vault-Locker.exe)
 # Wiki How?
 
 When the program is openned for the first time, you need to create new password before using any other operations.
