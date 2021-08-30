@@ -1,0 +1,18 @@
+Liscence to Sachin Acharya
+
+There are couple of conditions for you to use
+- You cannot claim this application and sell in Public Market
+- You can only for your personal purpose
+- Do not do unethical with the this applications
+- Please Provide Feedback or comment if you have anything to say to make this app better
+
+Something you must do maunally
+That is You need to add the main root to the path so you can use it anywhere in the computer
+(visit https://www.sachinacharya.cf/howto/how-to-add-to-system-variable for tutorial)
+
+Thanks for using.
+Visit www.sachinacharya.cf/applications/ for details and information about many new and upcoming Application that will make your life easy.
+
+
+
+Sole Sachinacharya©2020
