@@ -14,7 +14,7 @@ Phase 2:
 Phase 3:
     To Hide or Unhide your data, it requires Password.
 
-[Download Vault](Installer/Vault-Locker.exe)
+[Download Vault](Installer/Vault-Installer.exe)
 # Wiki How?
 
 When the program is openned for the first time, you need to create new password before using any other operations.
