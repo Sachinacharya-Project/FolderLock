@@ -53,7 +53,13 @@ As explained earlier, it can hide your data and you can get back to your data ve
 
 ## Update requirements
 
-Double Verification Security system to be added
+- Double Verification Security system to be added
+- Add automatic folder name(archive name) generation and store data like filename and filesize in database
+- Show options of folder name while extraction (S.N.)
+- Error Handling
+- 64 Bit architecture
+- Asking wheather to create archive or not for large file sizes
+- Super User Login Facility - Does not require to retype password everytime
 
 ## Suggestion
 Try adding the application to path so you could use it from any directory.
