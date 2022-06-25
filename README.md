@@ -51,7 +51,7 @@ There are various of options (menu) available in the program which are elaborate
 
 As explained earlier, it can hide your data and you can get back to your data very easily and manage your data inside the vault
 
-## Update requirements
+## Update Required
 
 - Double Verification Security system to be added
 - Add automatic folder name(archive name) generation and store data like filename and filesize in database
@@ -60,6 +60,7 @@ As explained earlier, it can hide your data and you can get back to your data ve
 - 64 Bit architecture
 - Asking wheather to create archive or not for large file sizes
 - Super User Login Facility - Does not require to retype password everytime
+- Keep content safe even after the application is uninstalled and can be accessed back once application is re-install
 
 ## Suggestion
 Try adding the application to path so you could use it from any directory.
