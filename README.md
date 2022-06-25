@@ -61,6 +61,9 @@ As explained earlier, it can hide your data and you can get back to your data ve
 - Asking wheather to create archive or not for large file sizes
 - Super User Login Facility - Does not require to retype password everytime
 - Keep content safe even after the application is uninstalled and can be accessed back once application is re-install
+- Add progress bar or something to notify users of pending task
+- Should be able to new files to existing folders (archive)
+- More color to indicate different processes
 
 ## Suggestion
 Try adding the application to path so you could use it from any directory.
