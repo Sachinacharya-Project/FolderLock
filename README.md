@@ -66,6 +66,7 @@ As explained earlier, it can hide your data and you can get back to your data ve
 - More color to indicate different processes
 - Option to choose if files to be hide in single folder or individual folder (when new files are added)
 - Delete folder option once extracted if in the same directory where it was extracted and also option to choose where to extract (default - installation_dir)
+- Web GUI (Might as well be Application) (Refer to Figma for more informations)
 
 ## Suggestion
 Try adding the application to path so you could use it from any directory.
